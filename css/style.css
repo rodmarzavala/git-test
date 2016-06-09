@@ -6,3 +6,7 @@ p {
 }
 body{ background:#524F4F;}
 div {text-align: center;}
+.vc_col-lg-6 {
+    width: 50%;
+    float: left;
+}
