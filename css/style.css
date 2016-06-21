@@ -4,5 +4,14 @@ p {
     font-size: 30px;
     text-decoration: underline;
 }
-body{ background:#524F4F;}
+body{ background:#524F4F; padding: 0; margin: 0;}
 div {text-align: center;}
+h1{ margin: 0;}
+header{ width: 100vw; background: #fff; height: 80px}
+.king-main-menu-container{ width: 1170px; margin: 0 auto;}
+.main-navigation ul a{ color:#524F4F; text-decoration: none;}
+.main-navigation ul{margin: 0;padding: 0;top: 0;left: 0;display: block;list-style-type: none;line-height: inherit;text-align: left;text-transform: capitalize;font-family: 'Open Sans',sans-serif;}
+.primary-menu-container, .king-main-menu-container .nav-menu{ float: right; display: block; padding-top: 10px}
+.header-logo-menu .header-logo{    display: inline-block; float: left; width: 30%}
+.main-navigation ul>li{    display: inline-block;  padding: 0 15px 0 0;}
+.imagen-responsive{ width: 100%;}
