@@ -6,6 +6,11 @@ p {
 }
 body{ background:#524F4F; padding: 0; margin: 0;}
 div {text-align: center;}
+.vc_col-lg-6 {
+    width: 50%;
+    float: left;
+}
+
 h1{ margin: 0;}
 header{ width: 100vw; background: #fff; height: 80px}
 .king-main-menu-container{ width: 1170px; margin: 0 auto;}
